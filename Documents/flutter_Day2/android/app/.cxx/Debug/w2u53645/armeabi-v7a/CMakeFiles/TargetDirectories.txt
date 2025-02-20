@@ -1,0 +1,2 @@
+C:/Users/folas/Documents/flutter_Day2/android/app/.cxx/Debug/w2u53645/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/folas/Documents/flutter_Day2/android/app/.cxx/Debug/w2u53645/armeabi-v7a/CMakeFiles/rebuild_cache.dir
